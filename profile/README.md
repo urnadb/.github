@@ -1,7 +1,7 @@
 
 <p align="center">
-    <img src="https://img.ibyte.me/0sd9vd.png" alt="vasedb" width="120" height="120" />
-    <p align="center">VaseDB is a NoSQL that supports multiple data types and transactions.</p>
+    <img src="http://urnadb.github.io/images/urnadb-logo.png" alt="vasedb" width="120" height="120" />
+    <p align="center">UrnaDB is a NoSQL that supports multiple data types and transactions.</p>
 </p>
 
 
